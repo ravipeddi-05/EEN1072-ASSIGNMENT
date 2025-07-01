@@ -1,0 +1,102 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>plantdoc1780.png</filename>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Cherry leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>33</xmin>
+            <ymin>36</ymin>
+            <xmax>58</xmax>
+            <ymax>86</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Cherry leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>47</xmin>
+            <ymin>24</ymin>
+            <xmax>75</xmax>
+            <ymax>63</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Cherry leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>72</xmin>
+            <ymin>70</ymin>
+            <xmax>97</xmax>
+            <ymax>88</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Cherry leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>4</xmin>
+            <ymin>82</ymin>
+            <xmax>31</xmax>
+            <ymax>99</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Cherry leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>13</xmin>
+            <ymin>49</ymin>
+            <xmax>36</xmax>
+            <ymax>75</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Cherry leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2</xmin>
+            <ymin>21</ymin>
+            <xmax>26</xmax>
+            <ymax>36</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Cherry leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>17</xmin>
+            <ymin>1</ymin>
+            <xmax>52</xmax>
+            <ymax>20</ymax>
+        </bndbox>
+    </object>
+</annotation>

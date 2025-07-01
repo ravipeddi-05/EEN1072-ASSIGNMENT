@@ -1,0 +1,102 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>plantdoc893.png</filename>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>32</xmin>
+            <ymin>4</ymin>
+            <xmax>61</xmax>
+            <ymax>36</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>40</xmin>
+            <ymin>35</ymin>
+            <xmax>78</xmax>
+            <ymax>48</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>48</xmin>
+            <ymin>47</ymin>
+            <xmax>86</xmax>
+            <ymax>62</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>46</xmin>
+            <ymin>64</ymin>
+            <xmax>87</xmax>
+            <ymax>77</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>4</xmin>
+            <ymin>60</ymin>
+            <xmax>40</xmax>
+            <ymax>74</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1</xmin>
+            <ymin>47</ymin>
+            <xmax>41</xmax>
+            <ymax>59</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>6</xmin>
+            <ymin>34</ymin>
+            <xmax>36</xmax>
+            <ymax>46</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,50 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>plantdoc1935.png</filename>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Soyabean leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>47</xmin>
+            <ymin>7</ymin>
+            <xmax>70</xmax>
+            <ymax>51</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Soyabean leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>22</xmin>
+            <ymin>39</ymin>
+            <xmax>54</xmax>
+            <ymax>72</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Soyabean leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>58</xmin>
+            <ymin>49</ymin>
+            <xmax>82</xmax>
+            <ymax>93</ymax>
+        </bndbox>
+    </object>
+</annotation>

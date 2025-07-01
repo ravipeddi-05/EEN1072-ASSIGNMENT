@@ -1,0 +1,167 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>plantdoc151.png</filename>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf bacterial spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>72</xmin>
+            <ymin>37</ymin>
+            <xmax>80</xmax>
+            <ymax>53</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf bacterial spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>21</xmin>
+            <ymin>33</ymin>
+            <xmax>31</xmax>
+            <ymax>43</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf bacterial spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>31</xmin>
+            <ymin>64</ymin>
+            <xmax>38</xmax>
+            <ymax>78</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf bacterial spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>81</xmin>
+            <ymin>15</ymin>
+            <xmax>89</xmax>
+            <ymax>31</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf bacterial spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>64</xmin>
+            <ymin>9</ymin>
+            <xmax>79</xmax>
+            <ymax>18</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf bacterial spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>35</xmin>
+            <ymin>12</ymin>
+            <xmax>48</xmax>
+            <ymax>21</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf bacterial spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>32</xmin>
+            <ymin>20</ymin>
+            <xmax>40</xmax>
+            <ymax>31</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf bacterial spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>67</xmin>
+            <ymin>57</ymin>
+            <xmax>73</xmax>
+            <ymax>69</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf bacterial spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>59</xmin>
+            <ymin>60</ymin>
+            <xmax>68</xmax>
+            <ymax>72</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf bacterial spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>55</xmin>
+            <ymin>26</ymin>
+            <xmax>62</xmax>
+            <ymax>39</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf bacterial spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>49</xmin>
+            <ymin>25</ymin>
+            <xmax>56</xmax>
+            <ymax>39</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf bacterial spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>64</xmin>
+            <ymin>21</ymin>
+            <xmax>76</xmax>
+            <ymax>39</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,63 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>plantdoc119.png</filename>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato mold leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>6</xmin>
+            <ymin>0</ymin>
+            <xmax>32</xmax>
+            <ymax>17</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato mold leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>33</xmin>
+            <ymin>0</ymin>
+            <xmax>58</xmax>
+            <ymax>23</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato mold leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>58</xmin>
+            <ymin>81</ymin>
+            <xmax>75</xmax>
+            <ymax>99</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato mold leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>22</xmin>
+            <ymin>26</ymin>
+            <xmax>76</xmax>
+            <ymax>75</ymax>
+        </bndbox>
+    </object>
+</annotation>

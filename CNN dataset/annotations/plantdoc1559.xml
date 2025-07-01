@@ -1,0 +1,50 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>plantdoc1559.png</filename>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Peach leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>21</xmin>
+            <ymin>15</ymin>
+            <xmax>33</xmax>
+            <ymax>48</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Peach leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>32</xmin>
+            <ymin>18</ymin>
+            <xmax>83</xmax>
+            <ymax>51</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Peach leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>31</xmin>
+            <ymin>53</ymin>
+            <xmax>59</xmax>
+            <ymax>87</ymax>
+        </bndbox>
+    </object>
+</annotation>

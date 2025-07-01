@@ -1,0 +1,141 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>plantdoc1681.png</filename>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Bell_pepper leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>21</xmin>
+            <ymin>17</ymin>
+            <xmax>36</xmax>
+            <ymax>38</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Bell_pepper leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>24</xmin>
+            <ymin>43</ymin>
+            <xmax>38</xmax>
+            <ymax>63</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Bell_pepper leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>50</xmin>
+            <ymin>51</ymin>
+            <xmax>68</xmax>
+            <ymax>70</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Bell_pepper leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>55</xmin>
+            <ymin>25</ymin>
+            <xmax>79</xmax>
+            <ymax>38</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Bell_pepper leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>0</xmin>
+            <ymin>60</ymin>
+            <xmax>24</xmax>
+            <ymax>84</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Bell_pepper leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>19</xmin>
+            <ymin>69</ymin>
+            <xmax>38</xmax>
+            <ymax>94</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Bell_pepper leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>37</xmin>
+            <ymin>48</ymin>
+            <xmax>49</xmax>
+            <ymax>55</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Bell_pepper leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>37</xmin>
+            <ymin>51</ymin>
+            <xmax>48</xmax>
+            <ymax>65</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Bell_pepper leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>44</xmin>
+            <ymin>36</ymin>
+            <xmax>55</xmax>
+            <ymax>56</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Bell_pepper leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>59</xmin>
+            <ymin>14</ymin>
+            <xmax>89</xmax>
+            <ymax>23</ymax>
+        </bndbox>
+    </object>
+</annotation>

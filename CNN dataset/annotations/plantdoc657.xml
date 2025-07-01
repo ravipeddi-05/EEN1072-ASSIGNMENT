@@ -1,0 +1,76 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>plantdoc657.png</filename>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Raspberry leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3</xmin>
+            <ymin>8</ymin>
+            <xmax>47</xmax>
+            <ymax>46</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Raspberry leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>46</xmin>
+            <ymin>2</ymin>
+            <xmax>68</xmax>
+            <ymax>48</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Raspberry leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>19</xmin>
+            <ymin>40</ymin>
+            <xmax>55</xmax>
+            <ymax>65</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Raspberry leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>32</xmin>
+            <ymin>52</ymin>
+            <xmax>70</xmax>
+            <ymax>87</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Raspberry leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>61</xmin>
+            <ymin>33</ymin>
+            <xmax>98</xmax>
+            <ymax>65</ymax>
+        </bndbox>
+    </object>
+</annotation>

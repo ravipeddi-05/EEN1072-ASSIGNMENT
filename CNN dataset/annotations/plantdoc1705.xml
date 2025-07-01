@@ -1,0 +1,50 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>plantdoc1705.png</filename>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Blueberry leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>23</xmin>
+            <ymin>19</ymin>
+            <xmax>56</xmax>
+            <ymax>44</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Blueberry leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>5</xmin>
+            <ymin>57</ymin>
+            <xmax>34</xmax>
+            <ymax>77</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Blueberry leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>58</xmin>
+            <ymin>33</ymin>
+            <xmax>77</xmax>
+            <ymax>56</ymax>
+        </bndbox>
+    </object>
+</annotation>

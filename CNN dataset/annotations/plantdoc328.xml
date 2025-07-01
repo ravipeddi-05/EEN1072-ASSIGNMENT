@@ -1,0 +1,50 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>plantdoc328.png</filename>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Potato leaf late blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>0</xmin>
+            <ymin>38</ymin>
+            <xmax>73</xmax>
+            <ymax>81</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Potato leaf late blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>56</xmin>
+            <ymin>16</ymin>
+            <xmax>84</xmax>
+            <ymax>39</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Potato leaf late blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>75</xmin>
+            <ymin>0</ymin>
+            <xmax>96</xmax>
+            <ymax>16</ymax>
+        </bndbox>
+    </object>
+</annotation>

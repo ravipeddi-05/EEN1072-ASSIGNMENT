@@ -1,0 +1,76 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>plantdoc1006.png</filename>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Apple rust leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>24</xmin>
+            <ymin>45</ymin>
+            <xmax>44</xmax>
+            <ymax>93</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Apple rust leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>53</xmin>
+            <ymin>14</ymin>
+            <xmax>82</xmax>
+            <ymax>45</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Apple rust leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>65</xmin>
+            <ymin>44</ymin>
+            <xmax>83</xmax>
+            <ymax>64</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Apple rust leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>43</xmin>
+            <ymin>47</ymin>
+            <xmax>56</xmax>
+            <ymax>82</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Apple rust leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>75</xmin>
+            <ymin>0</ymin>
+            <xmax>89</xmax>
+            <ymax>20</ymax>
+        </bndbox>
+    </object>
+</annotation>

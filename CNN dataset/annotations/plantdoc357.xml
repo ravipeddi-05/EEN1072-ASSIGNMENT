@@ -1,0 +1,63 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>plantdoc357.png</filename>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato Early blight leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>20</xmin>
+            <ymin>19</ymin>
+            <xmax>78</xmax>
+            <ymax>57</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>60</xmin>
+            <ymin>57</ymin>
+            <xmax>84</xmax>
+            <ymax>72</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>39</xmin>
+            <ymin>72</ymin>
+            <xmax>60</xmax>
+            <ymax>83</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>48</xmin>
+            <ymin>85</ymin>
+            <xmax>61</xmax>
+            <ymax>99</ymax>
+        </bndbox>
+    </object>
+</annotation>

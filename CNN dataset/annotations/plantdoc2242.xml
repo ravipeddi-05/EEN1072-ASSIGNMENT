@@ -1,0 +1,102 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>plantdoc2242.png</filename>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Potato leaf early blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>45</xmin>
+            <ymin>29</ymin>
+            <xmax>96</xmax>
+            <ymax>85</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Potato leaf early blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>46</xmin>
+            <ymin>8</ymin>
+            <xmax>72</xmax>
+            <ymax>32</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Potato leaf early blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>4</xmin>
+            <ymin>8</ymin>
+            <xmax>42</xmax>
+            <ymax>36</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Potato leaf early blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>37</xmin>
+            <ymin>32</ymin>
+            <xmax>48</xmax>
+            <ymax>40</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Potato leaf early blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>9</xmin>
+            <ymin>35</ymin>
+            <xmax>41</xmax>
+            <ymax>69</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Potato leaf early blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>16</xmin>
+            <ymin>63</ymin>
+            <xmax>42</xmax>
+            <ymax>85</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Potato leaf early blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>44</xmin>
+            <ymin>74</ymin>
+            <xmax>53</xmax>
+            <ymax>93</ymax>
+        </bndbox>
+    </object>
+</annotation>

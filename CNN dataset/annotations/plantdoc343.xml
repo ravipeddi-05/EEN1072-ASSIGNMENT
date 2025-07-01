@@ -1,0 +1,141 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>plantdoc343.png</filename>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>grape leaf black rot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>51</xmin>
+            <ymin>11</ymin>
+            <xmax>99</xmax>
+            <ymax>44</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>grape leaf black rot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>40</xmin>
+            <ymin>34</ymin>
+            <xmax>99</xmax>
+            <ymax>77</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>grape leaf black rot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>27</xmin>
+            <ymin>35</ymin>
+            <xmax>47</xmax>
+            <ymax>48</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>grape leaf black rot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>0</xmin>
+            <ymin>0</ymin>
+            <xmax>18</xmax>
+            <ymax>25</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>grape leaf black rot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>0</xmin>
+            <ymin>51</ymin>
+            <xmax>25</xmax>
+            <ymax>84</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>grape leaf black rot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>22</xmin>
+            <ymin>68</ymin>
+            <xmax>44</xmax>
+            <ymax>89</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>grape leaf black rot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>23</xmin>
+            <ymin>19</ymin>
+            <xmax>37</xmax>
+            <ymax>31</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>grape leaf black rot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>30</xmin>
+            <ymin>2</ymin>
+            <xmax>52</xmax>
+            <ymax>28</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>grape leaf black rot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>50</xmin>
+            <ymin>64</ymin>
+            <xmax>68</xmax>
+            <ymax>92</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>grape leaf black rot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>84</xmin>
+            <ymin>46</ymin>
+            <xmax>99</xmax>
+            <ymax>72</ymax>
+        </bndbox>
+    </object>
+</annotation>

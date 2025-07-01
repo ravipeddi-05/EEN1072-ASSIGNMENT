@@ -1,0 +1,24 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>plantdoc1619.png</filename>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>grape leaf black rot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>19</xmin>
+            <ymin>12</ymin>
+            <xmax>84</xmax>
+            <ymax>89</ymax>
+        </bndbox>
+    </object>
+</annotation>

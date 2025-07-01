@@ -1,0 +1,141 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>plantdoc215.png</filename>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Bell_pepper leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>41</xmin>
+            <ymin>1</ymin>
+            <xmax>50</xmax>
+            <ymax>26</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Bell_pepper leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>55</xmin>
+            <ymin>19</ymin>
+            <xmax>71</xmax>
+            <ymax>36</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Bell_pepper leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>76</xmin>
+            <ymin>9</ymin>
+            <xmax>86</xmax>
+            <ymax>31</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Bell_pepper leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>84</xmin>
+            <ymin>38</ymin>
+            <xmax>94</xmax>
+            <ymax>56</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Bell_pepper leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>75</xmin>
+            <ymin>42</ymin>
+            <xmax>86</xmax>
+            <ymax>63</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Bell_pepper leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>24</xmin>
+            <ymin>38</ymin>
+            <xmax>33</xmax>
+            <ymax>60</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Bell_pepper leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>41</xmin>
+            <ymin>27</ymin>
+            <xmax>52</xmax>
+            <ymax>37</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Bell_pepper leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>38</xmin>
+            <ymin>34</ymin>
+            <xmax>51</xmax>
+            <ymax>57</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Bell_pepper leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>33</xmin>
+            <ymin>49</ymin>
+            <xmax>41</xmax>
+            <ymax>69</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Bell_pepper leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>22</xmin>
+            <ymin>59</ymin>
+            <xmax>32</xmax>
+            <ymax>84</ymax>
+        </bndbox>
+    </object>
+</annotation>

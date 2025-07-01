@@ -1,0 +1,24 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>plantdoc1751.png</filename>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>grape leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>21</xmin>
+            <ymin>8</ymin>
+            <xmax>80</xmax>
+            <ymax>93</ymax>
+        </bndbox>
+    </object>
+</annotation>

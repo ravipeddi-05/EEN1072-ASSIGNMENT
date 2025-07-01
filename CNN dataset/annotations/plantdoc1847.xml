@@ -1,0 +1,76 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>plantdoc1847.png</filename>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Bell_pepper leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>11</xmin>
+            <ymin>42</ymin>
+            <xmax>66</xmax>
+            <ymax>71</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Bell_pepper leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>31</xmin>
+            <ymin>16</ymin>
+            <xmax>62</xmax>
+            <ymax>41</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Bell_pepper leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>34</xmin>
+            <ymin>23</ymin>
+            <xmax>81</xmax>
+            <ymax>44</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Bell_pepper leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>61</xmin>
+            <ymin>51</ymin>
+            <xmax>99</xmax>
+            <ymax>91</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Bell_pepper leaf spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>10</xmin>
+            <ymin>2</ymin>
+            <xmax>32</xmax>
+            <ymax>21</ymax>
+        </bndbox>
+    </object>
+</annotation>

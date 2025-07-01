@@ -1,0 +1,89 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>plantdoc2006.png</filename>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf mosaic virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>49</xmin>
+            <ymin>64</ymin>
+            <xmax>63</xmax>
+            <ymax>78</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf mosaic virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>85</xmin>
+            <ymin>36</ymin>
+            <xmax>93</xmax>
+            <ymax>49</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf mosaic virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>58</xmin>
+            <ymin>10</ymin>
+            <xmax>68</xmax>
+            <ymax>19</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf mosaic virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>32</xmin>
+            <ymin>34</ymin>
+            <xmax>41</xmax>
+            <ymax>55</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf mosaic virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>41</xmin>
+            <ymin>37</ymin>
+            <xmax>54</xmax>
+            <ymax>66</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf mosaic virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>56</xmin>
+            <ymin>32</ymin>
+            <xmax>76</xmax>
+            <ymax>52</ymax>
+        </bndbox>
+    </object>
+</annotation>

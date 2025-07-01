@@ -1,0 +1,24 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>plantdoc1838.png</filename>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf bacterial spot</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>13</xmin>
+            <ymin>59</ymin>
+            <xmax>47</xmax>
+            <ymax>90</ymax>
+        </bndbox>
+    </object>
+</annotation>

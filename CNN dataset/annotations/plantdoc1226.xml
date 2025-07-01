@@ -1,0 +1,89 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>plantdoc1226.png</filename>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf yellow virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>61</xmin>
+            <ymin>19</ymin>
+            <xmax>72</xmax>
+            <ymax>32</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf yellow virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>36</xmin>
+            <ymin>17</ymin>
+            <xmax>49</xmax>
+            <ymax>49</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf yellow virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>10</xmin>
+            <ymin>33</ymin>
+            <xmax>18</xmax>
+            <ymax>56</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf yellow virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>24</xmin>
+            <ymin>70</ymin>
+            <xmax>38</xmax>
+            <ymax>96</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf yellow virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>52</xmin>
+            <ymin>31</ymin>
+            <xmax>64</xmax>
+            <ymax>54</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf yellow virus</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>61</xmin>
+            <ymin>32</ymin>
+            <xmax>77</xmax>
+            <ymax>68</ymax>
+        </bndbox>
+    </object>
+</annotation>

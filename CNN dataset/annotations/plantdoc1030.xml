@@ -1,0 +1,76 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>plantdoc1030.png</filename>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Potato leaf early blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>40</xmin>
+            <ymin>3</ymin>
+            <xmax>63</xmax>
+            <ymax>34</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Potato leaf early blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>25</xmin>
+            <ymin>22</ymin>
+            <xmax>52</xmax>
+            <ymax>50</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Potato leaf early blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>52</xmin>
+            <ymin>20</ymin>
+            <xmax>83</xmax>
+            <ymax>50</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Potato leaf early blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>54</xmin>
+            <ymin>43</ymin>
+            <xmax>89</xmax>
+            <ymax>70</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Potato leaf early blight</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>12</xmin>
+            <ymin>39</ymin>
+            <xmax>49</xmax>
+            <ymax>68</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,50 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>plantdoc338.png</filename>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Tomato leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>43</xmin>
+            <ymin>47</ymin>
+            <xmax>73</xmax>
+            <ymax>76</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>16</xmin>
+            <ymin>54</ymin>
+            <xmax>51</xmax>
+            <ymax>87</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Tomato leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>53</xmin>
+            <ymin>28</ymin>
+            <xmax>93</xmax>
+            <ymax>51</ymax>
+        </bndbox>
+    </object>
+</annotation>

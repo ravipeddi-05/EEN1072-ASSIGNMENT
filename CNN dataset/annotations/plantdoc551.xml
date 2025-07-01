@@ -1,0 +1,24 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>plantdoc551.png</filename>
+    <size>
+        <width>100</width>
+        <height>100</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Blueberry leaf</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>41</xmin>
+            <ymin>5</ymin>
+            <xmax>72</xmax>
+            <ymax>57</ymax>
+        </bndbox>
+    </object>
+</annotation>
